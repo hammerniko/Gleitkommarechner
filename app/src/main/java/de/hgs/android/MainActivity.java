@@ -13,6 +13,10 @@ import java.math.MathContext;
 
 public class MainActivity extends AppCompatActivity {
 
+
+    //TEstkommentar
+
+
     //Objekte der View deklarieren
     EditText etKommazahl;
     TextView tvVorkommateil;
